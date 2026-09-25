@@ -20,7 +20,7 @@ int main(){
 	
 while (1){
 
-	printf("\n=== ATM OPERATIONS ===\n");
+	printf("\n=== ALL OPERATIONS ===\n");
     printf("1. Check Balance\n");
     printf("2. Deposit Money \n");
     printf("3. Withdraw Money \n");
